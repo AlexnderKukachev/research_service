@@ -36,6 +36,10 @@ cd research_service
 ```bash
 cp .env.example .env
 ```
+For local setup set the next variable like follow:
+MONGODB_URI=mongodb://mongo:27017
+POSTGRES_URI=postgresql+asyncpg://postgres:postgres@postgres/research_users
+DB_NAME=research_db
 
 ### 3. Run the service
 
