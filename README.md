@@ -27,7 +27,7 @@ The microservice supports operations such as creating, reading, filtering, authe
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/AlexnderKukachev/research_service.git
 cd research_service
 ```
 
